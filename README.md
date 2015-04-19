@@ -1,5 +1,5 @@
 # Google SpreadSheet Lib for Android
-This Library helps to develop Android applications which can access Google SpreadSheets?. Though Google has mentioned that GData API supports SpreadSheet? API on Android, but this is not the case. There are multiple forums pointing this problem without any solution <a href="http://groups.google.com/group/android-developers/browse_thread/thread/1e261f25c828e39f?pli=1" target="_blank">Problem</a>.
+This Library helps to develop Android applications which can access Google SpreadSheets?. Though Google has mentioned that GData API supports SpreadSheet? API on Android, but this is not the case. There are multiple forums pointing this <a href="http://groups.google.com/group/android-developers/browse_thread/thread/1e261f25c828e39f?pli=1" target="_blank">problem</a> without any solution.
 
 It has been developed in Java with no platform dependency, so can be used in any Java based platform (Desktop, Android, J2ME and RIM).
 
