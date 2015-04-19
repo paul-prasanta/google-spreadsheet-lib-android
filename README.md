@@ -15,7 +15,7 @@ Following are the supported features-
 
 The sample Android client application includes AndroidAuthenticator?.java which you can re-use.
 
-Kindly note:
+<b>Kindly note:</b>
 - This library doesn't support any persistent caching facility and if user plan for any caching, they need to develop separate logic.
 
 - Prior to use the Sample Android application, make sure you have registered a valid Gmail Account under "Settings | Accounts and Synch".
